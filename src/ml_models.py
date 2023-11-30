@@ -1,7 +1,7 @@
 import os, time, itertools
 from sklearn import preprocessing
 import extract_baseline_features
-import extract_ml_features2 as extract_features
+import extract_ml_features as extract_features
 import utils, classifiers
 import data_processing as data_proc
 
